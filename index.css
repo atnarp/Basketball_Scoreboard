@@ -12,8 +12,8 @@ body {
     justify-content: space-around;
     height: fit-content;
     color: #000000;
-    
-    max-width: 80%;
+    aspect-ratio:3/2 1/2;
+    width: 600px;
     margin: auto;
     border-radius: 5px;
     padding-bottom: 20px;
@@ -29,8 +29,8 @@ body {
   border-radius: 5px;
   justify-content: center; 
   align-items: center; 
-  width: 80%; 
-  margin-left: 10%;
+  width: 600px;
+  margin: auto;
    padding-bottom: 20px;
   background-image: url(blue.jpg);
   background-size: cover;
